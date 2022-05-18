@@ -1,0 +1,67 @@
+Frontend Development
+1. HTML
+2. CSS
+3. JS
+4. Bootstrap
+5. JQuery
+6. ReactJS Development
+
+5-6 Months
+
+Backend Development Part 1
+1. Server Side Scripting Language
+			1.1 NodeJs (Our Choise)
+			1.2 PHP
+			1.3 JAVA
+			1.4 ASP.Net
+			1.5 Python
+			
+2. Database
+
+Database is a software used to store information/data
+			
+			Types of Databases
+			1. SQL Based Database
+							1.1 MySQL/MariaDB    Oracle
+							1.2 SQL Server  Microsoft
+							1.3 DB2  IBM
+			2. NoSQL Based Database
+						2.1 MongoDB
+						2.2 Redis
+
+SQL = Seequal Language
+
+MERN Stack
+M = MongoDb
+E  = Express
+R  =  React  
+N  = NodeJS
+
+
+node -v
+
+v = version
+
+
+1. Variables
+Variable are container to store data/information
+
+4 Ways to Declare a JavaScript Variable:
+
+var <var_name>
+
+
+syntax
+var <var_name>
+
+var x;
+
+Every Statement is terminated by semi-colon 
+
+
+Data Mathematics
+
+Programming
+
+
+Arithmetic Operation
